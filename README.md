@@ -1,4 +1,4 @@
-![Discord-bot-preview](https://github.com/user-attachments/assets/0fb3c0b0-d5f3-468c-b0c6-6d742af31d0d)
+![Discord-bot-preview](https://github.com/user-attachments/assets/e33b4826-52bf-4194-a34d-6640e24bef34)
 <br />
 ![PYTHON](https://img.shields.io/badge/python-0000CC?style=for-the-badge&logo=Python&logoColor=white)
 
@@ -77,4 +77,5 @@ python DiscordBot.py
 
 ## License
 This project is licensed under the MIT License.
+
 
