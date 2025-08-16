@@ -4,7 +4,7 @@
 
 # Discord Minigame Bot
 
-Discord bot which provides games such as blackjack and rock-paper-scissors, as well as a magic 8-ball and currency system. Players start with $100 and can wager money on games.
+Discord bot which provides games such as blackjack and rock-paper-scissors, as well as a magic 8-ball and currency system. Players start with $1000 and can wager money on games.
 
 ## Features
 - **Blackjack** with betting system
@@ -66,16 +66,15 @@ python DiscordBot.py
 
 ## File Structure
 ```
-├── DiscordBot.py           # Main bot file
-├── test.json              # User data (auto-created)
-├── user_data_template.json # Template for user data
-├── requirements.txt       # Dependencies
-├── .env                   # Bot token (not included)
+├── bot.py                # Main bot file
+├── test.json             # User data (auto-created)
+├── requirements.txt      # Dependencies
+├── .gitignore            # Files to ignore in git
+├── LICENSE               # MIT License
+├── .env                  # Bot token (not included)
 └── README.md             # This file
 ```
 
-## Contributing
-Feel free to submit issues and pull requests!
-
 ## License
 This project is licensed under the MIT License.
+
